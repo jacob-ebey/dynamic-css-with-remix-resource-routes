@@ -1,0 +1,11 @@
+.DS_Store
+.env
+
+node_modules
+
+/.cache
+/.vercel
+/.output
+
+/public/build
+/api/build
